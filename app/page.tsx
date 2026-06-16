@@ -13,8 +13,8 @@ export default function Home() {
       <section className="hero" aria-labelledby="hero-title">
         <div className="hero-image-card">
           <img
-            src="/dwellur-hero.jpg"
-            alt="A dwellur app screen shown on an iPhone in a warm modern home setting."
+            src="/dwellur-hero.png"
+            alt="A dwellur app screen shown on a smartphone in a warm, modern home setting."
             className="hero-image"
           />
           <div className="image-fallback" aria-hidden="true">
