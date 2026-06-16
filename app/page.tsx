@@ -41,7 +41,7 @@ export default function Home() {
 
         <div className="hero-copy">
           <p className="eyebrow">coming soon</p>
-          <h1 id="hero-title">the modern home record</h1>
+          <h1 id="hero-title">A home for your homes</h1>
           <p className="subcopy">
             dwellur helps property owners keep photos, notes, inspections, and reports in one organized place.
           </p>
